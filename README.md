@@ -3,7 +3,7 @@
 
 Bu proje, Veri Yapıları dersi kapsamında **Öncelikli Kuyruk (Priority Queue)** ve **Yığın (Stack)** veri yapılarını kullanarak bir işlemci simülasyonu gerçekleştirmektedir.
 
-## 🎯 Projenin Amacı
+##  Projenin Amacı
 Sistem; P1, P2 ve P3 kaynaklarından gelen rastgele önceliklere sahip süreçleri (process) kuyruğa alır, öncelik sırasına göre işler ve tamamlananları raporlamak üzere saklar.
 
 ##  Çalışma Mantığı ve Özellikler
